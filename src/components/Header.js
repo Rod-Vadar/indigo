@@ -6,7 +6,7 @@ function Header() {
     <header>
       <Container>
         <Row>
-          <Col className="text-center py-3">The Header</Col>
+          <Col className="text-center py-3">Indigo 64</Col>
         </Row>
       </Container>
     </header>
