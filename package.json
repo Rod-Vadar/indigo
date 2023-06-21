@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://rod-vadar.github.io/indigo/",
+  "homepage": "https://rod-vadar.github.io/indigo",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
